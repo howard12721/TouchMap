@@ -1,4 +1,4 @@
 name: SimplePluginTemplate
 version: '${version}'
-main: jp.xhw.howatemplate.HowaTemplate
+main: jp.xhw.touchmap.TouchMapPlugin
 api-version: 1.19
